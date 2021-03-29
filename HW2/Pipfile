@@ -12,6 +12,8 @@ kafnafparserpy = "*"
 stanza = "*"
 nltk = "*"
 gensim = "*"
+beautifulsoup4 = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.8"
